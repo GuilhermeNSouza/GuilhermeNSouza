@@ -7,7 +7,7 @@
 <br/><br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/guilherme-n%C3%A1rio-de-souza-801853232//">
+  <a href="[https://www.linkedin.com/in/guilherme-n%C3%A1rio-de-souza-801853232//](https://www.linkedin.com/in/guilherme-n%C3%A1rio-de-souza-801853232/)">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp"  width="35px" style="margin: 15px;" />
   </a>
   <a href="mailto:guilhermenariodesouza@gmail.com">
