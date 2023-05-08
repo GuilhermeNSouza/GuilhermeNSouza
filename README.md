@@ -14,3 +14,7 @@
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="35px" style="margin: 15px;" />
   </a>
 </p>
+<p align="right">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=GuilhermeNSouza&theme=tokyonight&show_icons=true" />
+<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNSouza&theme=tokyonight&show_icons=true" />
+</p>
