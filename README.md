@@ -2,7 +2,7 @@
 
 <p align="center" >
   <samp>
-   Eu estou estudando Análise e Desenvolvimento de Sistemas na Faculdade Invest de Ciências e Tecnologia de Cuiabá/MT. Tenho iniciado a programar nas linguagens de Java e Javascript, por enquanto pretendo focar no desenvolvimento web. 
+   Atualmente estou estudando Análise e Desenvolvimento de Sistemas na Faculdade Invest de Ciências e Tecnologia de Cuiabá/MT. Tenho iniciado a programar nas linguagens de Java e Javascript, por enquanto pretendo focar no desenvolvimento web. 
 </samp>
 <br/><br/>
 
