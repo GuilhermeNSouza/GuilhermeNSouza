@@ -18,3 +18,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=GuilhermeNSouza&theme=tokyonight&show_icons=true" />
 <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNSouza&theme=tokyonight&show_icons=true" />
 </p>
+! [Snake animation](https://github.com/GuilhermeNSouza/GuilhermeNSouza/blob/output/github-contribution-grid-snage.svg)
